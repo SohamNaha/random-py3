@@ -24,6 +24,8 @@ It's two oh one pm.
 It's eigth twenty nine pm.
 It's nine pm.
 
+The link to the problem statement is : https://www.reddit.com/r/dailyprogrammer/comments/6jr76h/20170627_challenge_321_easy_talking_clock/
+
 """
 # global declarations
 ones = ["", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
