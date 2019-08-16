@@ -6,7 +6,7 @@ Problems:<br/ >
   <li>a) <b>talking_clock:</b><br/>
   The talking clock problem is a classic example of using python text to speech conversion.<br/ >
   The problem statement is that given a time in 24hr format, output the time in natural conversational form.<br/ >
-  Eg: input : - 
+  Eg: input :  
                - 00:00
                - 01:30
                - 12:05
