@@ -19,4 +19,12 @@ a) talking_clock:
                 It's nine pm.
                 
  The required python module is: pyttsx3 (offline) (or gTTS for online use) (or pyttsx for python 2.x)
- b) 
+ b) magic_squares :
+    Produces a magic square matrix for a given size of the square matrix.
+ c) middle_name : 
+    A simple Python code to initialize a given name's middle name.
+    Eg. : Mike Tyson ---> Mike Tyson
+          Sachin Ramesh Tendulkar ---> Sachin R. Tendulkar
+          Alice Betty Catherine Davis ---> Alice B. C. Davis
+ d) Birthday_paradox : 
+    A simple visualization of the problem of the birthday paradox. A well-defined paradox in probability.
